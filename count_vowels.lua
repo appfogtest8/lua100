@@ -1,3 +1,5 @@
+-- built with lua 5.1
+
 print("Type something and I will count the vowels for you")
 countvowels = io.read()
 

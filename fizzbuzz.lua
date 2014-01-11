@@ -1,3 +1,5 @@
+-- built with lua 5.1
+
 print('integer? ')
 eulogy = io.read()
 
